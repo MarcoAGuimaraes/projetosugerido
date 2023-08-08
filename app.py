@@ -35,7 +35,7 @@ VAGAS = [
   },
   {
     'id': 6,
-    'titulo': "Cientista de Daddos",
+    'titulo': "Cientista de Dados",
     'localidade': 'RJ, Brasil',
     'salario': 'R$ 14000'
   }
